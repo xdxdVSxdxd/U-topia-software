@@ -1,0 +1,15 @@
+
+#ignore thumbnails created by windows
+Thumbs.db
+
+#ignore ideas folder
+[Ii]nspiration
+
+#ignore fonts
+*.ttf
+*.ttc
+*.otf
+*.fon
+
+#do not ignore FreeSans.ttf (exception to the above rule)
+!FreeSans.ttf
